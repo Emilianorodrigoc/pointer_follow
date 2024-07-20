@@ -1,0 +1,12 @@
+.round {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 1px solid #fff;
+    border-radius: 50%;
+    opacity: 0.8;
+    pointer-events: none;
+    width: 40px;
+    height: 40px;
+    left: -20px;
+    top: -20px;
+}
